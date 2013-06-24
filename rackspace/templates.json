@@ -3,6 +3,7 @@
         {
             "id":1,
             "name":"Wordpress Single Instance Rackspace Cloud Servers",
+            "url":"https://raw.github.com/timductive/rs-heat-templates/master/rackspace/WordPress_Single_Instance_Rackspace_Cloud_Servers.template"
         }
     ]
 }
