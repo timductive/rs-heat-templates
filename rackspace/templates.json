@@ -1,0 +1,8 @@
+{
+    "templates":[
+        {
+            "id":1,
+            "name":"Wordpress Single Instance Rackspace Cloud Servers",
+        }
+    ]
+}
