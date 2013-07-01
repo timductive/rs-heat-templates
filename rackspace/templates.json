@@ -12,6 +12,11 @@
         },
         {
             "id":3,
+            "name":"Wordpress 3 Instances Rackspace Cloud Servers",
+            "url":"https://github.com/rackerlabs/heat-templates/blob/demo-2013-07-02/cfn/Rackspace_Wordpress_3_Instances.yaml"
+        },
+        {
+            "id":4,
             "name":"Wordpress 4 Instances Rackspace Cloud Servers",
             "url":"https://raw.github.com/rackerlabs/heat-templates/demo-2013-07-02/cfn/Rackspace_Wordpress_4_Instances.yaml"
         }
