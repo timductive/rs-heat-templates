@@ -2,8 +2,8 @@
     "templates":[
         {
             "id":1,
-            "name":"redis.template",
-            "url":"https://github.rackspace.com/Heat/heat-templates/raw/master/example/redis.template"
+            "name":"redis.yaml",
+            "url":"https://github.rackspace.com/Heat/heat-templates/raw/master/example/redis.yaml"
         },
         {
             "id":2,
