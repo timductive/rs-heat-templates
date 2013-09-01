@@ -3,7 +3,7 @@
         {
             "id":1,
             "name":"redis.yaml",
-            "url":"https://github.rackspace.com/Heat/heat-templates/raw/master/example/redis.yaml"
+            "url":"https://raw.github.com/timductive/rs-heat-templates/master/rackspace/redis.yaml"
         },
         {
             "id":2,
