@@ -8,7 +8,7 @@
         {
             "id":2,
             "name":"wordpress-multi.template",
-            "url":"https://github.rackspace.com/Heat/heat-templates/raw/master/example/wordpress-multi.template"
+            "url":"https://raw.github.com/timductive/rs-heat-templates/master/rackspace/wordpress-multi.template"
         },
         {
             "id":3,
