@@ -13,12 +13,7 @@
         {
             "id":3,
             "name":"wp-resource.template",
-            "url":"https://github.rackspace.com/Heat/heat-templates/raw/master/example/wp-resource.template"
-        },
-        {
-            "id":4,
-            "name":"Hello World.yaml",
-            "url":"https://raw.github.com/openstack/heat-templates/master/hot/hello_world.yaml"
+            "url":"https://raw.github.com/timductive/rs-heat-templates/master/rackspace/wp-resource.template"
         }
     ]
 }
